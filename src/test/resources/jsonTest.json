@@ -1,0 +1,6 @@
+{
+  "action" : "delete",
+  "id" : 167953,
+  "person_id" : "4b864f71-3cfd-46d0-9d64-559cc8032860",
+  "entity_name" : ["person_agent", "first_name", "last_name", "age"]
+}
